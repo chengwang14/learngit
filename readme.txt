@@ -1,3 +1,3 @@
-Git is a version control systemctl.
+Git is a version distributed vresion.
 Git is free software.
 
